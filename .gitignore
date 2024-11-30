@@ -1,6 +1,6 @@
 /node_modules/
-/dist/
-/venv/
-/.venv/
-.env
-*.log
+# /dist/
+# /venv/
+# /.venv/
+# .env
+# *.log
